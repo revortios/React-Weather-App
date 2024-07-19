@@ -1,10 +1,11 @@
 This is a simple weather application done with VITE+REACT.
 It currently shows the following information:
-Location
-Temperature
-Humidity
+Location,
+Temperature,
+Humidity,
 Wind Speed
 
 It fetches data from the openweathermap.org API, the api call needs only the location input, if you want more information or a more detailed input, check https://openweathermap.org/current for different calls depending on your needs.
 
 This application is done as a learning opportunity, the front-end design is minimal.
+![Weather-App](https://github.com/user-attachments/assets/38255879-fc5c-4826-8a3d-af92541e9870)
